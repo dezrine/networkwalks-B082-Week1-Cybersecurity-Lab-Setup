@@ -263,6 +263,9 @@ Why It mattered: This is the one of OS that we'll be using as a victim for Kali 
 
 Why It mattered: This is the one of OS that we'll be using as a victim to Kali
 
+Video Demonstration: https://drive.google.com/drive/folders/1JJ4CwZoS2mpj2unITsXIE7Fz7Wc7Uwaj?usp=drive_link
+
+
 # 🧠 What I learnt: 
 <b> This laboratory helped me develop practical skills in Linux administration, virtualization, and network configuration. I learned how to deploy Kali Linux on an Apple Silicon Mac using UTM and QEMU, configure a virtual network, troubleshoot IP and gateway issues, and use Linux networking commands such as ip addr, ip route, ip neigh, ping, and nmcli.
 
