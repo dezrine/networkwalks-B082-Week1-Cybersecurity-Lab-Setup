@@ -2,29 +2,29 @@
   🔐 Project 1 — Cybersecurity Lab on Mac- Kali Linux
 </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%25" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:C084FC&height=3&width=100%25" alt="divider" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&labelColor=2563EB&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-111827?style=for-the-badge&labelColor=0EA5E9&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Mac-111827?style=for-the-badge&labelColor=000000&logo=macos&logoColor=white" alt="Mac" />
-  <img src="https://img.shields.io/badge/UTM-v4.6.0-111827?style=for-the-badge&labelColor=1E293B&logo=apple&logoColor=white" alt="UTM" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&labelColor=475569&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Linux%20Fundamentals-111827?style=for-the-badge&labelColor=E95420&logo=linux&logoColor=white" alt="Linux Fundamentals" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-111827?style=for-the-badge&labelColor=7C3AED&logo=metasploit&logoColor=white" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1E1B4B?style=for-the-badge&labelColor=7C3AED&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-1E1B4B?style=for-the-badge&labelColor=8B5CF6&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Mac-1E1B4B?style=for-the-badge&labelColor=000000&logo=macos&logoColor=white" alt="Mac" />
+  <img src="https://img.shields.io/badge/UTM-v4.6.0-1E1B4B?style=for-the-badge&labelColor=4C1D95&logo=apple&logoColor=white" alt="UTM" />
+  <img src="https://img.shields.io/badge/Linux-1E1B4B?style=for-the-badge&labelColor=6D28D9&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux%20Fundamentals-1E1B4B?style=for-the-badge&labelColor=9333EA&logo=linux&logoColor=white" alt="Linux Fundamentals" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-1E1B4B?style=for-the-badge&labelColor=7C3AED&logo=metasploit&logoColor=white" alt="Penetration Testing" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-111827?style=for-the-badge&labelColor=1BA0D7&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&labelColor=0891B2&logo=wireguard&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Isolated%20Networking-111827?style=for-the-badge&labelColor=047857&logo=protonvpn&logoColor=white" alt="Isolated Networking" />
+  <img src="https://img.shields.io/badge/Cisco-1E1B4B?style=for-the-badge&labelColor=1BA0D7&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Networking-1E1B4B?style=for-the-badge&labelColor=8B5CF6&logo=wireguard&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Isolated%20Networking-1E1B4B?style=for-the-badge&labelColor=5B21B6&logo=protonvpn&logoColor=white" alt="Isolated Networking" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Program-Network%20Walks-111827?style=for-the-badge&labelColor=0F766E" alt="Network Walks" />
-  <img src="https://img.shields.io/badge/Instructor-Waqas%20Karim%20(CCIE)-111827?style=for-the-badge&labelColor=475569&logo=cisco&logoColor=white" alt="Waqas Karim CCIE" />
-  <img src="https://img.shields.io/badge/By-Desrine%20Harripaul-111827?style=for-the-badge&labelColor=0F766E&logo=github&logoColor=white" alt="Desrine Harripaul" />
+  <img src="https://img.shields.io/badge/Program-Network%20Walks-1E1B4B?style=for-the-badge&labelColor=6D28D9" alt="Network Walks" />
+  <img src="https://img.shields.io/badge/Instructor-Waqas%20Karim%20(CCIE)-1E1B4B?style=for-the-badge&labelColor=9333EA&logo=cisco&logoColor=white" alt="Waqas Karim CCIE" />
+  <img src="https://img.shields.io/badge/By-Desrine%20Harripaul-1E1B4B?style=for-the-badge&labelColor=7C3AED&logo=github&logoColor=white" alt="Desrine Harripaul" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&width=100%25" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:6D28D9&height=3&width=100%25" alt="divider" />
 </p>
   
 # 🎯 Introduction
